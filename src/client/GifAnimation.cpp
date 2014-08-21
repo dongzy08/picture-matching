@@ -1,6 +1,6 @@
 // GifAnimation.cpp : implementation file
 //
-
+//123
 #include "stdafx.h"
 //#include "AnimatedGif.h"
 #include "GifAnimation.h"
